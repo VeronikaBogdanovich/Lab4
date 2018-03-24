@@ -1,0 +1,118 @@
+ChampionShip_year,Entrant_country,Entrant,Constructor,Chassis,"Power unit",Tyres,№,"Driver Country","Driver name","Driver surname",Rounds,id
+2017,Italy," Scuderia Ferrari",Ferrari,SF70H,"Ferrari 062",Pirelli,5,Germany, Sebastian,Vettel,All,1
+2017,India," Sahara Force India F1 Team","Force India-Mercedes",VJM10,"Mercedes M08 EQ Power",Pirelli,11,Mexico, Sergio,Pérez,All,2
+2017,USA," Haas F1 Team",Haas-Ferrari,VF-17,"Ferrari 062",Pirelli,8,France, Romain,Grosjean,All,3
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,2,Belgium," Stoffel ",Vandoorne,All,4
+2017,Germany,"Mercedes AMG Petronas Motorsport",Mercedes,"F1 W08 EQ Power","Mercedes M08 EQ Power",Pirelli,44,UK, Lewis,Hamilton,All,5
+2017,Austria," Red Bull Racing","Red Bull Racing-TAG Heuer",RB13,"TAG Heuer",Pirelli,3,Australia, Daniel,Ricciardo,All,6
+2017,Italy," Scuderia Ferrari",Ferrari,SF70H,"Ferrari 062",Pirelli,7,Finland, Kimi,Räikkönen,All,7
+2017,USA," Haas F1 Team",Haas-Ferrari,VF-17,"Ferrari 062",Pirelli,20,Denmark," Kevin ",Magnussen,All,8
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,1,9
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,22,UK, Jenson,Button,6,10
+2017,Germany,"Mercedes AMG Petronas Motorsport",Mercedes,"F1 W08 EQ Power","Mercedes M08 EQ Power",Pirelli,77,Finland, Valtteri,Bottas,All,11
+2017,Austria," Red Bull Racing","Red Bull Racing-TAG Heuer",RB13,"TAG Heuer",Pirelli,33,Netherlands, Max,Verstappen,All,12
+2017,India," Sahara Force India F1 Team","Force India-Mercedes",VJM10,"Mercedes M08 EQ Power",Pirelli,31,France, Esteban,Ocon,All,13
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,7,14
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,27,Germany, Nico, Hülkenberg,All,15
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,1,16
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,55,Spain," Carlos ","Sainz Jr.",17,17
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,9,Sweden," Marcus ",Ericsson,All,18
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,36,Italy," Antonio ",Giovinazzi,1,19
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,1,20
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,1,21
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,10,France, Pierre,Gasly,15,22
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,39,"New Zealand"," Brendon ",Hartley,17,23
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,28,"New Zealand"," Brendon ",Hartley,18,24
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",1,25
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,17,26
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,10,France, Pierre,Gasly,18,27
+2017,UK," Williams Martini Racing",Williams-Mercedes,FW40,"Mercedes M08 EQ Power",Pirelli,18,Canada," Lance ",Stroll,All,28
+2017,UK," Williams Martini Racing",Williams-Mercedes,FW40,"Mercedes M08 EQ Power",Pirelli,19,Brazil," Felipe ",Massa,All,29
+2017,UK," Williams Martini Racing",Williams-Mercedes,FW40,"Mercedes M08 EQ Power",Pirelli,40,UK," Paul ","di Resta",11,30
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,2,31
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,3,32
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,4,33
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,5,34
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,8,35
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,9,36
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,10,37
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,11,38
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,12,39
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,13,40
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,14,41
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,15,42
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,16,43
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,17,44
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,18,45
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,19,46
+2017,UK,"McLaren Honda Formula 1 Team",McLaren-Honda,MCL32,"Honda RA617H",Pirelli,14,Spain, Fernando,Alonso,20,47
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,2,48
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,3,49
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,4,50
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,5,51
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,6,52
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,7,53
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,8,54
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,9,55
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,10,56
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,11,57
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,12,58
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,13,59
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,26,Russia," Daniil",Kvyat,14,60
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,10,France, Pierre,Gasly,16,61
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,28,"New Zealand"," Brendon ",Hartley,19,62
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,28,"New Zealand"," Brendon ",Hartley,20,63
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,10,France, Pierre,Gasly,19,64
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,10,France, Pierre,Gasly,20,65
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",2,66
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",3,67
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",4,68
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",5,69
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",6,70
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",7,71
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",8,72
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",9,73
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",10,74
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",11,75
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",12,76
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",13,77
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",14,78
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",15,79
+2017,Italy," Scuderia Toro Rosso","Toro Rosso",STR12,"Toro Rosso",Pirelli,55,Spain," Carlos ","Sainz Jr.",16,80
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,2,81
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,3,82
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,4,83
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,5,84
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,6,85
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,7,86
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,8,87
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,9,88
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,10,89
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,11,90
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,12,91
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,13,92
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,14,93
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,15,94
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,30,UK," Jolyon ",Palmer,16,95
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,55,Spain," Carlos ","Sainz Jr.",18,96
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,55,Spain," Carlos ","Sainz Jr.",19,97
+2017,France," Renault Sport Formula One Team",Renault,R.S.17,"Renault R.E.17",Pirelli,55,Spain," Carlos ","Sainz Jr.",20,98
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,36,Italy," Antonio ",Giovinazzi,2,99
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,3,100
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,4,101
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,5,102
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,6,103
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,7,104
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,8,105
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,9,106
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,10,107
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,11,108
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,12,109
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,13,110
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,14,111
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,15,112
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,16,113
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,17,114
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,18,115
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,19,116
+2017,Switzerland," Sauber F1 Team",Sauber-Ferrari,C36,"Ferrari 061",Pirelli,94,Germany," Pascal ",Wehrlein,20,NULL

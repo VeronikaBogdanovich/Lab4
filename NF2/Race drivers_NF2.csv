@@ -1,0 +1,118 @@
+"Drivers id",№,"Driver Country","Driver name","Driver surname",Rounds,"Teams and drivers 2017_Drivers id"
+1,5,Germany, Sebastian,Vettel,All,NULL
+2,11,Mexico, Sergio,Pérez,All,NULL
+3,8,France, Romain,Grosjean,All,NULL
+4,2,Belgium," Stoffel ",Vandoorne,All,NULL
+5,44,UK, Lewis,Hamilton,All,NULL
+6,3,Australia, Daniel,Ricciardo,All,NULL
+7,7,Finland, Kimi,Räikkönen,All,NULL
+8,20,Denmark," Kevin ",Magnussen,All,NULL
+9,14,Spain, Fernando,Alonso,1,NULL
+10,22,UK, Jenson,Button,6,NULL
+11,77,Finland, Valtteri,Bottas,All,NULL
+12,33,Netherlands, Max,Verstappen,All,NULL
+13,31,France, Esteban,Ocon,All,NULL
+9,14,Spain, Fernando,Alonso,7,NULL
+15,27,Germany, Nico, Hülkenberg,All,NULL
+16,30,UK," Jolyon ",Palmer,1,NULL
+17,55,Spain," Carlos ","Sainz Jr.",17,NULL
+18,9,Sweden," Marcus ",Ericsson,All,NULL
+19,36,Italy," Antonio ",Giovinazzi,1,NULL
+20,94,Germany," Pascal ",Wehrlein,1,NULL
+21,26,Russia," Daniil",Kvyat,1,NULL
+22,10,France, Pierre,Gasly,15,NULL
+23,39,"New Zealand"," Brendon ",Hartley,17,NULL
+24,28,"New Zealand"," Brendon ",Hartley,18,NULL
+27,55,Spain," Carlos ","Sainz Jr.",1,NULL
+21,26,Russia," Daniil",Kvyat,17,NULL
+22,10,France, Pierre,Gasly,18,NULL
+25,18,Canada," Lance ",Stroll,All,NULL
+26,19,Brazil," Felipe ",Massa,All,NULL
+14,40,UK," Paul ","di Resta",11,NULL
+9,14,Spain, Fernando,Alonso,2,NULL
+9,14,Spain, Fernando,Alonso,3,NULL
+9,14,Spain, Fernando,Alonso,4,NULL
+9,14,Spain, Fernando,Alonso,5,NULL
+9,14,Spain, Fernando,Alonso,8,NULL
+9,14,Spain, Fernando,Alonso,9,NULL
+9,14,Spain, Fernando,Alonso,10,NULL
+9,14,Spain, Fernando,Alonso,11,NULL
+9,14,Spain, Fernando,Alonso,12,NULL
+9,14,Spain, Fernando,Alonso,13,NULL
+9,14,Spain, Fernando,Alonso,14,NULL
+9,14,Spain, Fernando,Alonso,15,NULL
+9,14,Spain, Fernando,Alonso,16,NULL
+9,14,Spain, Fernando,Alonso,17,NULL
+9,14,Spain, Fernando,Alonso,18,NULL
+9,14,Spain, Fernando,Alonso,19,NULL
+9,14,Spain, Fernando,Alonso,20,NULL
+21,26,Russia," Daniil",Kvyat,2,NULL
+21,26,Russia," Daniil",Kvyat,3,NULL
+21,26,Russia," Daniil",Kvyat,4,NULL
+21,26,Russia," Daniil",Kvyat,5,NULL
+21,26,Russia," Daniil",Kvyat,6,NULL
+21,26,Russia," Daniil",Kvyat,7,NULL
+21,26,Russia," Daniil",Kvyat,8,NULL
+21,26,Russia," Daniil",Kvyat,9,NULL
+21,26,Russia," Daniil",Kvyat,10,NULL
+21,26,Russia," Daniil",Kvyat,11,NULL
+21,26,Russia," Daniil",Kvyat,12,NULL
+21,26,Russia," Daniil",Kvyat,13,NULL
+21,26,Russia," Daniil",Kvyat,14,NULL
+22,10,France, Pierre,Gasly,16,NULL
+24,28,"New Zealand"," Brendon ",Hartley,19,NULL
+24,28,"New Zealand"," Brendon ",Hartley,20,NULL
+22,10,France, Pierre,Gasly,19,NULL
+22,10,France, Pierre,Gasly,20,NULL
+27,55,Spain," Carlos ","Sainz Jr.",2,NULL
+27,55,Spain," Carlos ","Sainz Jr.",3,NULL
+27,55,Spain," Carlos ","Sainz Jr.",4,NULL
+27,55,Spain," Carlos ","Sainz Jr.",5,NULL
+27,55,Spain," Carlos ","Sainz Jr.",6,NULL
+27,55,Spain," Carlos ","Sainz Jr.",7,NULL
+27,55,Spain," Carlos ","Sainz Jr.",8,NULL
+27,55,Spain," Carlos ","Sainz Jr.",9,NULL
+27,55,Spain," Carlos ","Sainz Jr.",10,NULL
+27,55,Spain," Carlos ","Sainz Jr.",11,NULL
+27,55,Spain," Carlos ","Sainz Jr.",12,NULL
+27,55,Spain," Carlos ","Sainz Jr.",13,NULL
+27,55,Spain," Carlos ","Sainz Jr.",14,NULL
+27,55,Spain," Carlos ","Sainz Jr.",15,NULL
+27,55,Spain," Carlos ","Sainz Jr.",16,NULL
+16,30,UK," Jolyon ",Palmer,2,NULL
+16,30,UK," Jolyon ",Palmer,3,NULL
+16,30,UK," Jolyon ",Palmer,4,NULL
+16,30,UK," Jolyon ",Palmer,5,NULL
+16,30,UK," Jolyon ",Palmer,6,NULL
+16,30,UK," Jolyon ",Palmer,7,NULL
+16,30,UK," Jolyon ",Palmer,8,NULL
+16,30,UK," Jolyon ",Palmer,9,NULL
+16,30,UK," Jolyon ",Palmer,10,NULL
+16,30,UK," Jolyon ",Palmer,11,NULL
+16,30,UK," Jolyon ",Palmer,12,NULL
+16,30,UK," Jolyon ",Palmer,13,NULL
+16,30,UK," Jolyon ",Palmer,14,NULL
+16,30,UK," Jolyon ",Palmer,15,NULL
+16,30,UK," Jolyon ",Palmer,16,NULL
+17,55,Spain," Carlos ","Sainz Jr.",18,NULL
+17,55,Spain," Carlos ","Sainz Jr.",19,NULL
+17,55,Spain," Carlos ","Sainz Jr.",20,NULL
+19,36,Italy," Antonio ",Giovinazzi,2,NULL
+20,94,Germany," Pascal ",Wehrlein,3,NULL
+20,94,Germany," Pascal ",Wehrlein,4,NULL
+20,94,Germany," Pascal ",Wehrlein,5,NULL
+20,94,Germany," Pascal ",Wehrlein,6,NULL
+20,94,Germany," Pascal ",Wehrlein,7,NULL
+20,94,Germany," Pascal ",Wehrlein,8,NULL
+20,94,Germany," Pascal ",Wehrlein,9,NULL
+20,94,Germany," Pascal ",Wehrlein,10,NULL
+20,94,Germany," Pascal ",Wehrlein,11,NULL
+20,94,Germany," Pascal ",Wehrlein,12,NULL
+20,94,Germany," Pascal ",Wehrlein,13,NULL
+20,94,Germany," Pascal ",Wehrlein,14,NULL
+20,94,Germany," Pascal ",Wehrlein,15,NULL
+20,94,Germany," Pascal ",Wehrlein,16,NULL
+20,94,Germany," Pascal ",Wehrlein,17,NULL
+20,94,Germany," Pascal ",Wehrlein,18,NULL
+20,94,Germany," Pascal ",Wehrlein,19,NULL
+20,94,Germany," Pascal ",Wehrlein,20,NULL

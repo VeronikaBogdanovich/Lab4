@@ -1,0 +1,118 @@
+id,№,"Driver Country","Driver name","Driver surname",Round,"Drivers id"
+1,5,Germany, Sebastian,Vettel,All,1
+2,11,Mexico, Sergio,Pérez,All,2
+3,8,France, Romain,Grosjean,All,3
+4,2,Belgium," Stoffel ",Vandoorne,All,4
+5,44,UK, Lewis,Hamilton,All,5
+6,3,Australia, Daniel,Ricciardo,All,6
+7,7,Finland, Kimi,Räikkönen,All,7
+8,20,Denmark," Kevin ",Magnussen,All,8
+9,14,Spain, Fernando,Alonso,1,9
+10,22,UK, Jenson,Button,6,10
+11,77,Finland, Valtteri,Bottas,All,11
+12,33,Netherlands, Max,Verstappen,All,12
+13,31,France, Esteban,Ocon,All,13
+14,14,Spain, Fernando,Alonso,7,9
+15,27,Germany, Nico, Hülkenberg,All,15
+16,30,UK," Jolyon ",Palmer,1,16
+17,55,Spain," Carlos ","Sainz Jr.",17,17
+18,9,Sweden," Marcus ",Ericsson,All,18
+19,36,Italy," Antonio ",Giovinazzi,1,19
+20,94,Germany," Pascal ",Wehrlein,1,20
+21,26,Russia," Daniil",Kvyat,1,21
+22,10,France, Pierre,Gasly,15,22
+23,39,"New Zealand"," Brendon ",Hartley,17,23
+24,28,"New Zealand"," Brendon ",Hartley,18,24
+25,55,Spain," Carlos ","Sainz Jr.",1,27
+26,26,Russia," Daniil",Kvyat,17,21
+27,10,France, Pierre,Gasly,18,22
+28,18,Canada," Lance ",Stroll,All,25
+29,19,Brazil," Felipe ",Massa,All,26
+30,40,UK," Paul ","di Resta",11,14
+31,14,Spain, Fernando,Alonso,2,9
+32,14,Spain, Fernando,Alonso,3,9
+33,14,Spain, Fernando,Alonso,4,9
+34,14,Spain, Fernando,Alonso,5,9
+35,14,Spain, Fernando,Alonso,8,9
+36,14,Spain, Fernando,Alonso,9,9
+37,14,Spain, Fernando,Alonso,10,9
+38,14,Spain, Fernando,Alonso,11,9
+39,14,Spain, Fernando,Alonso,12,9
+40,14,Spain, Fernando,Alonso,13,9
+41,14,Spain, Fernando,Alonso,14,9
+42,14,Spain, Fernando,Alonso,15,9
+43,14,Spain, Fernando,Alonso,16,9
+44,14,Spain, Fernando,Alonso,17,9
+45,14,Spain, Fernando,Alonso,18,9
+46,14,Spain, Fernando,Alonso,19,9
+47,14,Spain, Fernando,Alonso,20,9
+48,26,Russia," Daniil",Kvyat,2,21
+49,26,Russia," Daniil",Kvyat,3,21
+50,26,Russia," Daniil",Kvyat,4,21
+51,26,Russia," Daniil",Kvyat,5,21
+52,26,Russia," Daniil",Kvyat,6,21
+53,26,Russia," Daniil",Kvyat,7,21
+54,26,Russia," Daniil",Kvyat,8,21
+55,26,Russia," Daniil",Kvyat,9,21
+56,26,Russia," Daniil",Kvyat,10,21
+57,26,Russia," Daniil",Kvyat,11,21
+58,26,Russia," Daniil",Kvyat,12,21
+59,26,Russia," Daniil",Kvyat,13,21
+60,26,Russia," Daniil",Kvyat,14,21
+61,10,France, Pierre,Gasly,16,22
+62,28,"New Zealand"," Brendon ",Hartley,19,24
+63,28,"New Zealand"," Brendon ",Hartley,20,24
+64,10,France, Pierre,Gasly,19,22
+65,10,France, Pierre,Gasly,20,22
+66,55,Spain," Carlos ","Sainz Jr.",2,27
+67,55,Spain," Carlos ","Sainz Jr.",3,27
+68,55,Spain," Carlos ","Sainz Jr.",4,27
+69,55,Spain," Carlos ","Sainz Jr.",5,27
+70,55,Spain," Carlos ","Sainz Jr.",6,27
+71,55,Spain," Carlos ","Sainz Jr.",7,27
+72,55,Spain," Carlos ","Sainz Jr.",8,27
+73,55,Spain," Carlos ","Sainz Jr.",9,27
+74,55,Spain," Carlos ","Sainz Jr.",10,27
+75,55,Spain," Carlos ","Sainz Jr.",11,27
+76,55,Spain," Carlos ","Sainz Jr.",12,27
+77,55,Spain," Carlos ","Sainz Jr.",13,27
+78,55,Spain," Carlos ","Sainz Jr.",14,27
+79,55,Spain," Carlos ","Sainz Jr.",15,27
+80,55,Spain," Carlos ","Sainz Jr.",16,27
+81,30,UK," Jolyon ",Palmer,2,16
+82,30,UK," Jolyon ",Palmer,3,16
+83,30,UK," Jolyon ",Palmer,4,16
+84,30,UK," Jolyon ",Palmer,5,16
+85,30,UK," Jolyon ",Palmer,6,16
+86,30,UK," Jolyon ",Palmer,7,16
+87,30,UK," Jolyon ",Palmer,8,16
+88,30,UK," Jolyon ",Palmer,9,16
+89,30,UK," Jolyon ",Palmer,10,16
+90,30,UK," Jolyon ",Palmer,11,16
+91,30,UK," Jolyon ",Palmer,12,16
+92,30,UK," Jolyon ",Palmer,13,16
+93,30,UK," Jolyon ",Palmer,14,16
+94,30,UK," Jolyon ",Palmer,15,16
+95,30,UK," Jolyon ",Palmer,16,16
+96,55,Spain," Carlos ","Sainz Jr.",18,17
+97,55,Spain," Carlos ","Sainz Jr.",19,17
+98,55,Spain," Carlos ","Sainz Jr.",20,17
+99,36,Italy," Antonio ",Giovinazzi,2,19
+100,94,Germany," Pascal ",Wehrlein,3,20
+101,94,Germany," Pascal ",Wehrlein,4,20
+102,94,Germany," Pascal ",Wehrlein,5,20
+103,94,Germany," Pascal ",Wehrlein,6,20
+104,94,Germany," Pascal ",Wehrlein,7,20
+105,94,Germany," Pascal ",Wehrlein,8,20
+106,94,Germany," Pascal ",Wehrlein,9,20
+107,94,Germany," Pascal ",Wehrlein,10,20
+108,94,Germany," Pascal ",Wehrlein,11,20
+109,94,Germany," Pascal ",Wehrlein,12,20
+110,94,Germany," Pascal ",Wehrlein,13,20
+111,94,Germany," Pascal ",Wehrlein,14,20
+112,94,Germany," Pascal ",Wehrlein,15,20
+113,94,Germany," Pascal ",Wehrlein,16,20
+114,94,Germany," Pascal ",Wehrlein,17,20
+115,94,Germany," Pascal ",Wehrlein,18,20
+116,94,Germany," Pascal ",Wehrlein,19,20
+117,94,Germany," Pascal ",Wehrlein,20,20
